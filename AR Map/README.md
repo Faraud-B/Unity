@@ -12,7 +12,7 @@ What was created:
 
 - Mall's map recognition
 - Ability to click on buildings to see related brand information
-- Path Finding to see the route to a specific brand
+- Pathfinding to see the route to a specific brand
 - Translation into several languages
 - Animated 3D models
 
