@@ -6,6 +6,8 @@ This project was created in 1 week using Unity, Vuforia and Blender for an Andro
 
 The main goal of this application was to test out Vuforia on Android.
 
+<br>
+
 ![AR-Map](sources/Demo.gif)
 
 What was created:
