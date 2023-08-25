@@ -16,5 +16,4 @@ What was created:
 - Translation into several languages
 - Animated 3D models
 
-The map used as the image-target for this AR project is accessible here : 
-![a link](https://github.com/Faraud-B/Unity/tree/main/AR%20Map/sources/map.jpg)
+The map used as the image-target for this AR project is accessible ![here](https://github.com/Faraud-B/Unity/tree/main/AR%20Map/sources/map.jpg)
