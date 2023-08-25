@@ -1,6 +1,6 @@
 # Small Multiplayer Game
 
-Creation of a small 2D mutlplayer game using Unity.
+Small 2D mutlplayer game using Unity.
 
 The goal was to create a small project to test the functionnalities of Mirror, the networking solution of Unity.
 The two players who appear on the videos below are located hundreds of kilometers from each other
