@@ -1,9 +1,9 @@
 # Unity
 Projects created with Unity
 
-* ## [AR Map](AR-Map)
-    * **AR Map of a shopping mall** <br>
-    * *using: Unity, C#, Blender, Vuforia, Android* <br>
+* ## [Suika](Suika)
+    * **Copy of Suika Game** <br>
+    * *using: Unity, C#, Blender, UI Toolkit, New Input System* <br>
 
 * ## [Mobile Games](Mobile-Games)
     * **Copy of several mobile games** <br>
@@ -16,3 +16,7 @@ Projects created with Unity
 * ## [Small Multiplayer Game](Small-Multiplayer-Game)
     * **Small 2D mutlplayer game** <br>
     * *using: Unity, C#, Mirror* <br>
+
+* ## [AR Map](AR-Map)
+    * **AR Map of a shopping mall** <br>
+    * *using: Unity, C#, Blender, Vuforia, Android* <br>
